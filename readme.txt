@@ -1,10 +1,10 @@
-https://github.com/LoChangCheng/aipix2pix/blob/master/image25.png
-https://github.com/LoChangCheng/aipix2pix/blob/master/image26.png
-https://github.com/LoChangCheng/aipix2pix/blob/master/image27.png
-https://github.com/LoChangCheng/aipix2pix/blob/master/image28.png
-https://github.com/LoChangCheng/aipix2pix/blob/master/image29.png
-https://github.com/LoChangCheng/aipix2pix/blob/master/image30.png
-https://github.com/LoChangCheng/aipix2pix/blob/master/image31.png
+https://github.com/LoChangCheng/aipix2pix/blob/master/image25.png?raw=true
+https://github.com/LoChangCheng/aipix2pix/blob/master/image26.png?raw=true
+https://github.com/LoChangCheng/aipix2pix/blob/master/image27.png?raw=true
+https://github.com/LoChangCheng/aipix2pix/blob/master/image28.png?raw=true
+https://github.com/LoChangCheng/aipix2pix/blob/master/image29.png?raw=true
+https://github.com/LoChangCheng/aipix2pix/blob/master/image30.png?raw=true
+https://github.com/LoChangCheng/aipix2pix/blob/master/image31.png?raw=true
 
 Paper:
 https://arxiv.org/pdf/1611.07004.pdf
